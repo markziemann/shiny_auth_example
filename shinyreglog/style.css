@@ -1,0 +1,11 @@
+//external style css
+  <link rel="stylesheet" type="text/css" href="fileName.css"></link>
+//internal style css
+<style>
+	*{
+    	  margin:10;
+        padding:10;
+        box-sizing:border-box;
+        text-decoration:none;        
+    }
+</style>
